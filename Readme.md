@@ -25,10 +25,15 @@
 
 ### Commands
 ```/tc``` > List of Players | Logged In / Logout
+
 ```/tc *your Message*``` > Send Message over TeamChat
+
 ```/tc login``` > Login
+
 ```/tc logout``` > Logout
+
 ```/tc list``` > List
+
 ```/tc notify``` Notification On / Off
 
 ## Authors
