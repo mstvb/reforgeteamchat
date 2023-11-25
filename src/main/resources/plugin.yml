@@ -1,0 +1,4 @@
+name: ReforgeTeamChat
+version: '${project.version}'
+main: net.reforge.ReforgeTeamChat
+load: STARTUP
