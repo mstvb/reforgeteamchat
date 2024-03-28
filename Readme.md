@@ -24,6 +24,7 @@
 
 
 ### Commands
+
 ```/tc``` > List of Players | Logged In / Logout
 
 ```/tc *your Message*``` > Send Message over TeamChat

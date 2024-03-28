@@ -1,4 +1,10 @@
 name: ReforgeTeamChat
+author: 'mstvb'
 version: '${project.version}'
 main: net.reforge.ReforgeTeamChat
 load: STARTUP
+commands:
+  tc:
+    aliases: [teamchat, team]
+    permission: teamchat.use
+    description: Chat for TeamMembers
